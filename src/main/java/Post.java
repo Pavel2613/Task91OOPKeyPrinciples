@@ -4,7 +4,7 @@ public class Post {
     public String patronymic; // поле для отчества
     public String telephone; // номер телефон
     public String passport; // номер паспорта
-    public String subscription; // наличие подписки
+    public boolean subscription; // наличие подписки
     public FormDate birthday; // дата рождения
 
 }
